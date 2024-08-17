@@ -15,6 +15,7 @@ The purpose of this Jupyter Notebook is to showcase the usage of the `pyfoma` fi
 ## Prerequisites
 - Python 3.x
 - Jupyter Notebook or JupyterLab
+- Libraries: `pyfoma`, `pytest`, and other Python standard libraries.
 
 ## Input
 Users can input various strings in order to test against defined regular expressions, checking for patterns such as valid dates.
