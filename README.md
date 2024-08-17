@@ -10,7 +10,7 @@ The purpose of this Jupyter Notebook is to showcase the usage of the `pyfoma` fi
 ## Usage
 - Execute notebook cells sequentially from top to bottom.
 - Users can modify the regular expressions or Python functions to experiment with different FST behaviors.
-- The notebook includes predefined tests that can be run to ensure the regular expressions perform as expected.
+- Includes predefined tests that can be run to ensure the regular expressions perform as expected.
 
 ## Prerequisites
 - Python 3.x
