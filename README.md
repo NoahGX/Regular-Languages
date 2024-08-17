@@ -17,7 +17,7 @@ The purpose of this Jupyter Notebook is to showcase the usage of the `pyfoma` fi
 - Jupyter Notebook or JupyterLab
 
 ## Input
-Users can input various strings to test against the defined regular expressions, checking for patterns such as valid dates.
+Users can input various strings in order to test against defined regular expressions, checking for patterns such as valid dates.
 
 ## Output
 - **Validation Results**: Whether the input strings match the patterns defined by the FSTs.
