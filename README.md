@@ -24,5 +24,5 @@ Users can input various strings in order to test against defined regular express
 - **Test Results**: Outputs from running the unit tests included in the notebook.
 
 ## Notes
-- It might be necessary to restart the Jupyter kernel after installing new packages to ensure they are properly loaded.
+- It might be necessary to restart the kernel after installing new packages to ensure they're properly loaded.
 - Links to extra documentation on `pyfoma` and its capabilities are included for more in-depth exploration.
